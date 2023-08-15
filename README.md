@@ -5,9 +5,11 @@ a passionate Full-stack Software Engineer with a strong foundation in web develo
 This README serves as an introduction to who I am, my technical skills, and how to get in touch with me.
 
 About Me
+
 I'm a dedicated problem solver who thrives on challenges and loves to create elegant solutions through code. With a background in Full-stack development, I have experience in both frontend and backend technologies, enabling me to build end-to-end applications that provide seamless user experiences.
 
 Technical Skills
+
 Here's a snapshot of the technologies and tools I'm proficient in:
 
 Frontend Development: HTML, CSS, JavaScript, React
@@ -17,6 +19,7 @@ Version Control: Git (GitHub)
 Collaboration: Slack
 
 GitHub Repositories
+
 Feel free to explore my GitHub repositories where I've worked on a variety of projects showcasing my skills. 
 From frontend-heavy applications using React to backend services developed with Flask, you'll find a diverse range of projects that highlight my versatility as a developer.
 
